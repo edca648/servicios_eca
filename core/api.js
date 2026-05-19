@@ -10,7 +10,7 @@
 
 import { IDB } from './idb.js';
 
-export const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyIE4vCCV9Y5IK0oPMFrKXKqGt7N8JIpl-_tsU57T4kThS990Y3BA9QQy8RTI3o6Tmp/exec';
+export const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbw2aIjgrnDA0USZqVuN0KOyQ_HU49hPjrhB__hAPvdjZTXnpMd3h96hdKC8JHjM0Mhd/exec';
 
 export const SHEETS = {
   ARTICULOS:        'Articulos',
